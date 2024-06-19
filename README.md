@@ -1,1 +1,1 @@
-This is a website for me this will contain information on my discord bot and any games i release in the future.
+This is not the Home Page go to https://hpmi3.github.io/Website/Home
